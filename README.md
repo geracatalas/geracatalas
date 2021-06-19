@@ -24,7 +24,7 @@
 <img height="1">
 <p>
 <small>
-TECHNICAL KNOWLEDGES & TOOLS
+TECHNICAL KNOWLEDGES
 </small>
 </p>
 </th>  
