@@ -21,7 +21,7 @@
 <table>  
 <tr>  
 <th align="center">
-<img height="1">
+<img width="440" height="1">
 <p>
 <small>
 TECHNICAL KNOWLEDGES
@@ -29,7 +29,7 @@ TECHNICAL KNOWLEDGES
 </p>
 </th>  
 <th align="center">
-<img height="1">
+<img width="220" height="1">
 <p>
 <small>
 LEARNING
@@ -37,7 +37,7 @@ LEARNING
 </p>
 </th>  
 <th align="center">
-<img height="1">
+<img width="220" height="1">
 <p>
 <small>
 WANTING TO LEARN
