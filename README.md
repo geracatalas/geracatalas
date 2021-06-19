@@ -68,7 +68,7 @@ WANTING TO LEARN
 </td>  
 <td align="center">
   <img alt="Elixir" src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white"/>
-  <img alt="Elixir" src="https://img.shields.io/badge/Phoenix-%234B275F.svg?style=for-the-badge&logo=phoenix&logoColor=white"/>
+  <img alt="Phoenix" src="https://img.shields.io/badge/Phoenix-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white"/>
   <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
