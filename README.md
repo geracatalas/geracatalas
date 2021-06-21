@@ -1,12 +1,13 @@
 <div align="center">
   
   # 👋 Hi, I’m Gerardo
-  
 <br>
   
 [![Linkedin Badge](https://img.shields.io/badge/-GERARDO_CATALAS-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gerardocatalas/)](https://www.linkedin.com/in/gerardocatalas/)
 [![Gmail Badge](https://img.shields.io/badge/-GERARDO@CATALASJUIN.COM-red?style=for-the-badge&logo=gmail&logoColor=white&link=https://www.linkedin.com/in/gerardocatalas/)](mailto:gerardo@catalasjuin.com)
 [![Website Badge](https://img.shields.io/badge/-WWW.CATALASJUIN.COM-17a589?style=for-the-badge&logo=website&logoColor=white&link=https://www.catalasjuin.com)](https://www.catalasjuin.com)
+    
+  ![](https://komarev.com/ghpvc/?username=geracatalas&color=17a589)</span>  
 
 </div>
 <div align="center">
@@ -75,7 +76,7 @@ WANTING TO LEARN
 
 <div align="center">
   
-  ## My Stats
+  ## My Stats  
   [![Catalas Juin's GitHub stats](https://github-readme-stats.vercel.app/api?username=geracatalas&show_icons=true&theme=vue&hide_title=true)](https://github.com/geracatalas)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geracatalas&theme=vue&layout=compact)](https://github.com/geracatalas)
 </div>
