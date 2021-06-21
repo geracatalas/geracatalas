@@ -6,8 +6,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-GERARDO_CATALAS-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gerardocatalas/)](https://www.linkedin.com/in/gerardocatalas/)
 [![Gmail Badge](https://img.shields.io/badge/-GERARDO@CATALASJUIN.COM-red?style=for-the-badge&logo=gmail&logoColor=white&link=https://www.linkedin.com/in/gerardocatalas/)](mailto:gerardo@catalasjuin.com)
 [![Website Badge](https://img.shields.io/badge/-WWW.CATALASJUIN.COM-17a589?style=for-the-badge&logo=website&logoColor=white&link=https://www.catalasjuin.com)](https://www.catalasjuin.com)
-    
-  ![](https://komarev.com/ghpvc/?username=geracatalas&color=17a589)</span>  
 
 </div>
 <div align="center">
