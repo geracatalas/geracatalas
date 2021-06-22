@@ -7,6 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-GERARDO@CATALASJUIN.COM-red?style=for-the-badge&logo=gmail&logoColor=white&link=https://www.linkedin.com/in/gerardocatalas/)](mailto:gerardo@catalasjuin.com)
 [![Website Badge](https://img.shields.io/badge/-WWW.CATALASJUIN.COM-17a589?style=for-the-badge&logo=website&logoColor=white&link=https://www.catalasjuin.com)](https://www.catalasjuin.com)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6fe47bce-d9ea-4c03-95e6-7d761bb44b9a/deploy-status)](https://app.netlify.com/sites/catalasjuin/deploys)
 </div>
 <div align="center">
 
