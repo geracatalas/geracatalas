@@ -76,6 +76,8 @@ WANTING TO LEARN
 <div align="center">
   
   ## My Stats  
-  [![Catalas Juin's GitHub stats](https://github-readme-stats.vercel.app/api?username=geracatalas&show_icons=true&theme=vue&hide_title=true)](https://github.com/geracatalas)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geracatalas&theme=vue&layout=compact)](https://github.com/geracatalas)
+    
+  | Account Stats | Most Used Languages |
+  | --- | --- |
+  | [![Catalas Juin's GitHub stats](https://github-readme-stats.vercel.app/api?username=geracatalas&show_icons=true&theme=vue&hide_title=true)](https://github.com/geracatalas) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geracatalas&theme=vue&layout=compact&hide_title=true)](https://github.com/geracatalas) |
 </div>
